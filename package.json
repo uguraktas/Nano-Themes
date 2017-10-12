@@ -1,0 +1,22 @@
+{
+    "name": "Nano Themes",
+    "displayName": "Nano Themes",
+    "description": "Nano Themes",
+    "version": "0.0.1",
+    "publisher": "Uğur AKTAŞ",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nano Themes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nano-Themes.json"
+            }
+        ]
+    }
+}
