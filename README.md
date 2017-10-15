@@ -1,7 +1,7 @@
 <p align="center"><img src="http://nanothemes.uguraktas.info/img/nanothemes-banner.jpg" </p>
 
 
-<p align="center"><img src="https://img.shields.io/badge/Changelog-1.0.0-81A1C1.svg?style=flat-square"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Changelog-1.0-81A1C1.svg?style=flat-square"/></p>
 
 <p align="center">Clean and elegant <a href="https://code.visualstudio.com">Visual Studio Code</a> theme.</p>
 
