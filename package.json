@@ -1,11 +1,28 @@
 {
-    "name": "Nano Themes",
+    "name": "NanoThemes",
     "displayName": "Nano Themes",
-    "description": "Nano Themes",
-    "version": "0.0.1",
-    "publisher": "Uğur AKTAŞ",
+    "description": "Beautiful and colorful a theme for VSCode",
+    "version": "1.1.0",
+    "publisher": "UgurAKTAS",
+	"icon": "icon.png",
+	"keywords": [
+        "theme",
+        "color-theme",
+        "nano",
+        "themes"
+    ],
+	"bugs": {
+        "url": "https://github.com/uguraktas/Nano-Themes/issues",
+        "email": "uguraktas25@yandex.com"
+    },
+    "repository": {
+	    "type": "git",
+        "url": "https://github.com/uguraktas/Nano-Themes"
+    },
+    "homepage": "https://github.com/uguraktas/Nano-Themes/blob/master/README.md",
+	
     "engines": {
-        "vscode": "^1.17.0"
+        "vscode": "^1.18.0"
     },
     "categories": [
         "Themes"
