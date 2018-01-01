@@ -1,4 +1,4 @@
-<p align="center"><img src="https://img.shields.io/badge/Changelog-1.0-81A1C1.svg?style=flat-square"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Changelog-1.1.0-81A1C1.svg?style=flat-square"/></p>
 
 <p align="center">Clean and elegant <a href="https://code.visualstudio.com">Visual Studio Code</a> theme.</p>
 
@@ -34,20 +34,6 @@ run the `Preferences: Color Theme` command and select `Nano Themes` from the dro
 
 The color theme drop-down can alternatively be opened via *File* (*Code* on macOS) > *Preferences* > *Color Theme*.
 
-
-### Editor
-<p align="center">
-HTML<br>
-<img src="http://nanothemes.uguraktas.info/img/html-view.jpg"/><br>
-CSS / SASS /LESS<br>
-<img src="http://nanothemes.uguraktas.info/img/css-view.jpg"/><br>
-Side Bar<br>
-<img src="http://nanothemes.uguraktas.info/img/bar-view.jpg"/><br>
-Active Bar<br>
-<img src="http://nanothemes.uguraktas.info/img/activebar-view.jpg"/><br>
-Top Bar<br>
-<img src="http://nanothemes.uguraktas.info/img/topbar-view.jpg"/><br>
-</p>
 
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/uguraktas/Nano-Themes/issues).
