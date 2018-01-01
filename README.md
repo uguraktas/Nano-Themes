@@ -1,7 +1,10 @@
-<p align="center"><img src="https://img.shields.io/badge/Changelog-1.1.0-81A1C1.svg?style=flat-square"/></p>
+<p align="center"><img src="https://img.shields.io/badge/Changelog-1.2.0-81A1C1.svg?style=flat-square"/></p>
 
 <p align="center">Clean and elegant <a href="https://code.visualstudio.com">Visual Studio Code</a> theme.</p>
 
+<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/1.jpg"/>
+<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/2.jpg"/>
+<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/4.jpg"/>
 ## Getting started
 ### Installation
 

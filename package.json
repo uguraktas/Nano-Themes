@@ -2,7 +2,7 @@
     "name": "NanoThemes",
     "displayName": "Nano Themes",
     "description": "Beautiful and colorful a theme for VSCode",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "publisher": "UgurAKTAS",
 	"icon": "icon.png",
 	"keywords": [
@@ -22,7 +22,7 @@
     "homepage": "https://github.com/uguraktas/Nano-Themes/blob/master/README.md",
 	
     "engines": {
-        "vscode": "^1.18.0"
+        "vscode": "^1.19.1"
     },
     "categories": [
         "Themes"
