@@ -2,9 +2,7 @@
 
 <p align="center">Clean and elegant <a href="https://code.visualstudio.com">Visual Studio Code</a> theme.</p>
 
-<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/1.jpg"/>
-<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/2.jpg"/>
-<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/4.jpg"/>
+<img src="https://raw.githubusercontent.com/uguraktas/Nano-Themes/master/screen/screen1.png"/>
 ## Getting started
 ### Installation
 
@@ -41,8 +39,7 @@ The color theme drop-down can alternatively be opened via *File* (*Code* on macO
 ### Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/uguraktas/Nano-Themes/issues).
 
-<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord/develop/src/assets/banner-footer-mountains-2x.png" /></p>
-
-<p align="center">Copyright &copy; 2017 Open Source Community</p>
+<p align="center">
+<p align="center">Copyright &copy; 2017-2019 Open Source Community</p>
 
 
