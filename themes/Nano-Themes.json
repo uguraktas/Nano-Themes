@@ -186,7 +186,7 @@
     "scope": ["comment", "comment keyword", "comment markup.underline.link", "comment string", "comment punctuation.definition", "comment punctuation"],
     "settings": {
       "fontStyle": "italic",
-      "foreground": "#626d6e"
+      "foreground": "#818a8a"
     }
   }, {
     "scope": "\n\t\tcomment storage.type\n\t",
